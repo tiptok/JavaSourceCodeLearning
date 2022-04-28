@@ -13,6 +13,7 @@ Spring-Security/springsecurity.iml
 rocketmqdemo/rocketmqdemo.iml
 
 # target
+Flink/target
 JdkLearn/target
 Spring/target
 Spring-AOP/target
